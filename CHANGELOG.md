@@ -1,4 +1,4 @@
-# Changelog
+# Changelog DEV
 
 ## 1.18.0 — Prompt Builder repensé
 - **Refonte complète du Prompt Builder** : grand modal pleine largeur, disposition pro en deux colonnes (blocs à gauche, aperçu collant à droite).
