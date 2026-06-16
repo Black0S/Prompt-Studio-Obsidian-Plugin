@@ -157,7 +157,7 @@ base Danbooru/e621 complète, et synchronisation multi-appareils des snippets.
 
 ---
 
-## Développement (build)
+## Développement (build) | NON ACCESSIBLE AUX PUBLIC POUR LE MOMENT
 
 Le plugin est écrit en **TypeScript** et compilé avec **esbuild**.
 
