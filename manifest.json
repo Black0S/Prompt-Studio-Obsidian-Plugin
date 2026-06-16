@@ -4,8 +4,8 @@
   "version": "1.18.0",
   "minAppVersion": "1.4.0",
   "description": "Interface moderne pour organiser vos prompts, idées et styles ComfyUI, avec import d'images et de métadonnées depuis CivitAI et autres plateformes.",
-  "author": "Tao Jutteau",
-  "authorUrl": "",
+  "author": "Black0S",
+  "authorUrl": "https://github.com/Black0S/Prompt-Studio-Obsidian-Plugin",
   "fundingUrl": "",
   "isDesktopOnly": true
 }
